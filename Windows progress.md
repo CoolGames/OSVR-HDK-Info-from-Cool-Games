@@ -1,7 +1,10 @@
-Instructions followed at [Using  OSVR Devices](https://osvrdevportal.atlassian.net/wiki/display/DD/Using+OSVR+Devices)
-Also did Firware Upgrade
-Only the HMD was not detected to install OSVR Services.
+##Instructions
 
+Followed link at [Using  OSVR Devices](https://osvrdevportal.atlassian.net/wiki/display/DD/Using+OSVR+Devices)
+
+###Also did Firmware Upgrade.
+
+####OSVR Control log
 
 ```
 Turing display off
@@ -18,6 +21,18 @@ Version 1.85  Dec 16 2015
 Tracker:1.8.4.415
 #ei
 ```
+
+
+
+###Below link states
+At 'If you want to directly download the OSVR Services setup, go to` *TBD: need location*.
+'''
+If you are a developer and you wish to develop with the latest OSVR core, you need to uninstall OSVR Services and then manually download and install the core from the OSVR site.
+'''
+
+####I had already installed [OSVR Core / Server](http://osvr.github.io/using/)
+Only the HMD was not detected to [install OSVR Services](https://osvrdevportal.atlassian.net/wiki/pages/viewpage.action?pageId=7962786).
+
 
 
 ```
