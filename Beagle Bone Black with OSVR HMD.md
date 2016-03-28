@@ -39,5 +39,20 @@ echo 0 > /sys/class/graphics/fb0/blank
 
 ```
 
+After connecting wire to eth0 the first step is to get xRDP setup
+and login to the Beagle Bone Black on a high speed connection.
+
+**Power at this point is provided by the OSVR HMD belt box.**
+
+## Use xRDP to login
+
+First check the date in lower right to verify it is getting internet connection.
+Next do apt-get update followed by apt-get install synaptic package manager.
+Next start synaptic and do upgrades available to machinekit and any others.
+
+
+
+
+
 This is all I have done but am glad to be making progress.
 
