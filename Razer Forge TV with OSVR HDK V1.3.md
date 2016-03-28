@@ -12,9 +12,9 @@ screen /dev/ttyACM0 115200
 
 ### Next plug Android ADB cable into Razer Forge TV
 
-##NOTE: This will not power the Razer Forge TV unless USB is applied and later removed.
+### NOTE: This will not power the Razer Forge TV unless USB is applied and later removed.
 
-### Next Power up the Razer Forge TV and set up as ADB over USB
+### Next Power up the Razer Forge TV (connected to standard HDTV not OSVR) and set up as ADB over USB
 
 ###Note: use <http://developer.razerzone.com/forge-tv/developer-setup/>
 
