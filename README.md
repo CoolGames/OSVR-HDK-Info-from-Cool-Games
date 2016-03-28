@@ -10,11 +10,18 @@
 
 ## Project began December 25, 2015
 After unpackaging and connecting to i5 13" MacBook Air with Belkin HDMI adapter
-> MacBook Air Specs at <http://www.everymac.com/systems/apple/macbook-air/specs/macbook-air-core-i5-1.3-13-mid-2013-specs.html>
+
+
+## Project update March 28, 2016
+
+> Objective is to get a 3D application on portable battery powered system.
+
+[Beagle Bone Black](https://github.com/CoolGames/OSVR-HDK-Info-from-Cool-Games/blob/master/Beagle%20Bone%20Black%20with%20OSVR%20HMD.md) or [Wifi Bluetooth Razer Forge TV](https://github.com/CoolGames/OSVR-HDK-Info-from-Cool-Games/blob/master/Beagle%20Bone%20Black%20with%20OSVR%20HMD.md) should be able to meet this objective.
+
+
 
 > Belkin Adapter Specs at <http://www.belkin.com/us/F2CD079-Belkin/p/P-F2CD079;jsessionid=FC414A2C1175813017B9E6B935F28382/>
 
-<<<<<<< HEAD
 ## I am on Ubuntu Studio 15.10 and so I read 
 > <https://github.com/OSVR/OSVR-Docs/blob/master/Getting-Started/Installing/linux.md>
 and paid attension to
