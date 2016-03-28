@@ -1,8 +1,8 @@
-###Connecting OSVR V1.3 Head Mounted Display to Razer Forge TV 
+#Connecting OSVR V1.3 Head Mounted Display to Razer Forge TV 
 
-##First power up the OSVR HDK with USB connected to system running Ubuntu Studio 15.10 
+###First power up the OSVR HDK with USB connected to system running Ubuntu Studio 15.10 
 
-## Next switch OSVR HDK to side by side mode using 
+### Next switch OSVR HDK to side by side mode using 
 ```
 screen /dev/ttyACM0 115200
 
@@ -10,13 +10,13 @@ screen /dev/ttyACM0 115200
 
 ```
 
-## Next plug Android ADB cable into Razer Forge TV
+### Next plug Android ADB cable into Razer Forge TV
 
-#NOTE: This will not power the Razer Forge TV unless USB is applied and later removed.
+##NOTE: This will not power the Razer Forge TV unless USB is applied and later removed.
 
-## Next Power up the Razer Forge TV and set up as ADB over USB
+### Next Power up the Razer Forge TV and set up as ADB over USB
 
-#Note: use <http://developer.razerzone.com/forge-tv/developer-setup/>
+###Note: use <http://developer.razerzone.com/forge-tv/developer-setup/>
 
 As a reminder 
 
